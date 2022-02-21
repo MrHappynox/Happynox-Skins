@@ -6,7 +6,7 @@ Profil : https://osu.ppy.sh/users/15101580
 
 
 # [- Happy Daisy 3D -](https://drive.google.com/file/d/1qJ-MF9-rr_ZTxIHZ7IUOke_5sR-xT0RP/view?usp=sharing)
-![](https://i.imgur.com/inrzRpK.png)
+![](https://i.imgur.com/yAcxe6L.png)
 
 # [- Happy Daisy -](https://drive.google.com/file/d/1YSyVK9CVX5JLPmrSLaijRg1yrem1SnBb/view?usp=sharing)
 ![](https://i.imgur.com/inrzRpK.png)
