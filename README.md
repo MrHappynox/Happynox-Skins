@@ -12,7 +12,7 @@ Profil : https://osu.ppy.sh/users/15101580
 ![](https://i.imgur.com/inrzRpK.png)
 
 # [- Happynox 2.2 -](https://drive.google.com/file/d/1fW7WLslzaCC9tLg0AjDPPsqtZgAXmJp_/view?usp=sharing)
-![](https://i.imgur.com/inrzRpK.png)
+![](https://i.imgur.com/yPf0xKI.png)
 
 # [- Happynox 2.0 -](https://drive.google.com/file/d/1mmc-uLK4GW1asMKX3fdltBwvSjRdBYtC/view?usp=sharing)
 ![](https://i.imgur.com/tbMsZ9y.png)
