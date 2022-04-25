@@ -1,6 +1,6 @@
 # Happynox-Skins
 Skins created and used by Happynox. 
-You can change the cursor of the skins with the folder "Cursor" or also the hitsounds with the folder "HitSound". Also you can change the combo color in the skin.ini .
+You can change the cursor of the skins with the folder "Cursor" or also the hitsounds with the folder "HitSound". Also you can change the combo color in the file "skin.ini".
 
 
 Profil : https://osu.ppy.sh/users/15101580
