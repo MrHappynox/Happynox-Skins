@@ -1,11 +1,9 @@
 # Happynox-Skins
 Skins created and used by Happynox.
 
-You can change the cursor of the skins with the folder "Cursor" or also the hitsounds with the folder "HitSound". Also you can change the combo color in the file "skin.ini" to a more colorful one.
-
-
 Profil : https://osu.ppy.sh/users/15101580
 
+You can change the hitsounds with the folder "HitSound". Also you can change the combo color in the file "skin.ini" to a more colorful one.
 # [- Happy Daisy -](https://mega.nz/file/XthhjQiS#vy7pS4cjAxYI9ZhmAWLirpMjr6P6YKD6sHC6TMb8n0w)
 ![]()
 
