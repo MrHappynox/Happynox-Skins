@@ -3,8 +3,8 @@ Skins created and used by Happynox.
 
 Profil : https://osu.ppy.sh/users/15101580
 
-# [- Happy Daisy -](https://mega.nz/file/XthhjQiS#vy7pS4cjAxYI9ZhmAWLirpMjr6P6YKD6sHC6TMb8n0w)
-![]()
+# [- Happy Daisy -]()
+![](https://i.imgur.com/yUtHZWq.png)
 
 # [- Happy Daisy - (old version)](https://mega.nz/file/fxgxyJhQ#Po3-PP34weGbzebpoFwdHNAQmECXQKAnV4w97TGHdyc)
 You can change the hitsounds with the folder "HitSound". Also you can change the combo color in the file "skin.ini" to a more colorful one.
