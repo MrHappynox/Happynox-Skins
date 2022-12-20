@@ -3,7 +3,7 @@ Skins created and used by Happynox.
 
 Profil : https://osu.ppy.sh/users/15101580
 
-# [- Happy Daisy -](https://github.com/MrHappynox/Happy-Daisy-Skin/blob/08b9980ebff8cdd1017deec62d8fcee0407b7e2f/README.md)
+# [- Happy Daisy -](https://github.com/MrHappynox/Happy-Daisy-Skin)
 ![](https://i.imgur.com/Yqa9AWU.png)
 
 # [- Happy Daisy - (old version)](https://mega.nz/file/fxgxyJhQ#Po3-PP34weGbzebpoFwdHNAQmECXQKAnV4w97TGHdyc)
