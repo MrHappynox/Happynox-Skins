@@ -7,7 +7,7 @@ Profil : https://osu.ppy.sh/users/15101580
 ![](https://i.imgur.com/sJluiRM.png)
 
 # [- Happy Daisy -](https://github.com/MrHappynox/Happy-Daisy-Skin)
-![](https://i.imgur.com/Yqa9AWU.png)
+![](https://i.imgur.com/46bH5uJ.png)
 
 # [- Happy Daisy - (old version)](https://mega.nz/file/fxgxyJhQ#Po3-PP34weGbzebpoFwdHNAQmECXQKAnV4w97TGHdyc)
 You can change the hitsounds with the folder "HitSound". Also you can change the combo color in the "skin.ini" file to a more colorful one.
