@@ -3,6 +3,9 @@ Skins created and used by Happynox.
 
 Profil : https://osu.ppy.sh/users/15101580
 
+# [- Happynox 5.0 -](https://mega.nz/file/PgwViAQT#XNWiAEMNAKA9tefbnab_eelrlO0Pn9XJSyyKKCLgZtA)
+![](https://i.imgur.com/dKfJy5d.png)
+
 # [- Happy Daisy V2 -](https://mega.nz/file/WhpH0ZoB#XnFJx1CYbamLtFuyPnBZJFp6pLfOUmJeXRPy88q9_dM)
 ![](https://i.imgur.com/mM5Jgxu.png)
 
